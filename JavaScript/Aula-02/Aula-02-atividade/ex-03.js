@@ -7,5 +7,5 @@ console.log("tem filhos:", temFilhos)
 console.log(typeof temFilhos)
 
 let comparacao = 10>5 
-console.log("Resultado da comparação (10 > 5):", resultadoComparacao);
-console.log( typeof resultadoComparacao);
+console.log("Resultado da comparação (10 > 5):", comparacao);
+console.log( typeof comparacao);
